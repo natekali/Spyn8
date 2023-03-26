@@ -9,7 +9,6 @@ Spyn8 is a Python script that __scan open ports__ on a given __domain name__, wi
 ## Prerequisites
 Before running spyn8, make sure you install these following libraries :
 * socket
-* sys
 * time
 * numpy
 
