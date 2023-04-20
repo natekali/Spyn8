@@ -25,7 +25,7 @@ Run the script by typing `python3 spyn8.py` in your terminal.
 
 Enter the domain name of the target website when prompted.
 
-## Authors
+## Author
 * [@natekali](https://github.com/natekali)
 
 
